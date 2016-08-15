@@ -1,0 +1,28 @@
+{
+  "name": "chatroom",
+  "version": "1.0.0",
+  "description": "chat room by socket.io + angularjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/duangangqiang/chatroom.git"
+  },
+  "keywords": [
+    "chatroom",
+    "socket.io",
+    "angularjs"
+  ],
+  "author": "duangangqiang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/duangangqiang/chatroom/issues"
+  },
+  "homepage": "https://github.com/duangangqiang/chatroom#readme",
+  "dependencies": {
+    "express": "^4.14.0",
+    "socket.io": "^1.4.8"
+  }
+}
